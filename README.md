@@ -2,6 +2,7 @@
 
 🎓 **B.Tech Graduate | 💻 Full Stack Developer | 🌐 Open Source Enthusiast | 📍 Hyderabad, India**
 
+
 🚀 **About Me**
 
 🔭 Currently building **Full Stack Web Applications**
@@ -12,6 +13,7 @@
 
 ⚡ Fun fact: I love building small apps that solve real problems while learning new tech
 
+
 🛠 **Tech Stack**
 
 **Frontend:** HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS
@@ -19,7 +21,9 @@
 **Database:** SQLite, SQL
 **Tools & Others:** Git, GitHub, VS Code, Postman, Render, Netlify
 
+
 📌 **Featured Projects**
+
 1️⃣ **Nxt Trendz – E-commerce Web App**
 
 **Description:** Online shopping app with login, product listing, and full cart management.
@@ -32,6 +36,7 @@
 
 **GitHub:** https://github.com/MaheshVeeraboina/Nxt-Trendz
 
+
 2️⃣**Jobby App**
 
 **Description:** Job listing and search platform with filtering, saved jobs, and dynamic routing.
@@ -42,6 +47,7 @@
 
 **GitHub:** https://github.com/MaheshVeeraboina/Jobby-App
 
+
 3️⃣ **Twitter Clone API**
 
 **Description:** Backend system built with Node.js, Express, JWT, and SQLite to support tweeting, following, likes, and replies.
@@ -50,6 +56,7 @@
 
 **GitHub:** https://github.com/MaheshVeeraboina/Twitter-Clone
 
+
 4️⃣**Stock Trading Simulation**
 
 **Description:** Simulates real-time stock trading with cron jobs, CSV logging, and loan limits.
@@ -57,6 +64,7 @@
 **Tech:** Node.js, SQLite
 
 **GitHub:** https://github.com/MaheshVeeraboina/Stock-Trade-Simulation-Task
+
 
 5️⃣ **IPL Dashboard**
 
@@ -68,6 +76,7 @@
 
 **GitHub:** https://github.com/MaheshVeeraboina/IPL-Dashboard
 
+
 6️⃣ **My Journey with NxtWave**
 
 **Description:** Timeline project documenting my learning journey and projects with NxtWave.
@@ -75,6 +84,7 @@
 **Tech:** React, React Chrono
 
 **GitHub**: https://github.com/MaheshVeeraboina/my-journey-with-Nxtwave
+
 
 7️⃣ **Meme Generator**
 
@@ -86,6 +96,7 @@
 
 **GitHub:** https://github.com/MaheshVeeraboina/meme-generator
 
+
 8️⃣ **Gradient Generator**
 
 **Description:** Web app to generate CSS gradients dynamically with color pickers and copy-to-clipboard functionality.
@@ -96,6 +107,7 @@
 
 **GitHub:** https://github.com/MaheshVeeraboina/gradient-generator
 
+
 9️⃣ **Password Manager App**
 
 **Description:** React app for adding, searching, deleting, and toggling visibility of passwords.
@@ -103,6 +115,7 @@
 **Tech:** React, CSS
 
 **GitHub**: https://github.com/MaheshVeeraboina/Password-Manager-App
+
 
 🔟 **Portfolio Website**
 
@@ -114,10 +127,12 @@
 
 **GitHub:** https://github.com/MaheshVeeraboina/Portfolio
 
+
 🤝 **Connect With Me**
 
 💼 **LinkedIn**: www.linkedin.com/in/mahesh-veeraboina
 
 🖥️ **GitHub**: (https://github.com/MaheshVeeraboina)
+
 
 ✨ “Code is like humor. When you have to explain it, it’s bad.”
