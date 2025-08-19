@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Hi, I'm Veeraboina Mahesh Yadav
 
-<!--
-**MaheshVeeraboina/MaheshVeeraboina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate | 💻 Full Stack Developer | 🌐 Open Source Enthusiast | 📍 Hyderabad, India
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building Full Stack Web Applications
+
+🌱 Learning Advanced React, Node.js, Express, and System Design
+
+🎯 Goal: To become a Skilled Software Engineer and contribute to impactful projects
+
+⚡ Fun fact: I love building small apps that solve real problems while learning new tech
+
+🛠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS
+Backend: Node.js, Express.js
+Database: SQLite, SQL
+Tools & Others: Git, GitHub, VS Code, Postman, Render, Netlify
+
+📌 Featured Projects
+
+🔹 Twitter Clone API
+
+A backend system built with Node.js, Express, JWT, and SQLite to support tweeting, following, likes, and replies.
+
+🔹 Stock Trading Simulation
+
+Simulates real-time stock trading with cron jobs, CSV logging, and loan limits.
+
+🔹 IPL Dashboard
+
+React app with API integration showing IPL team stats and recent matches.
+
+📈 GitHub Stats
+
+
+
+
+🤝 Connect With Me
+
+💼 LinkedIn
+
+🖥️ GitHub
+
+✨ “Code is like humor. When you have to explain it, it’s bad.”
