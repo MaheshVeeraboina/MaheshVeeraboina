@@ -1,123 +1,123 @@
-👋 Hi, I'm Veeraboina Mahesh Yadav
+👋 Hi, I'm **Veeraboina Mahesh Yadav**
 
-🎓 B.Tech Graduate | 💻 Full Stack Developer | 🌐 Open Source Enthusiast | 📍 Hyderabad, India
+🎓 **B.Tech Graduate | 💻 Full Stack Developer | 🌐 Open Source Enthusiast | 📍 Hyderabad, India**
 
-🚀 About Me
+🚀 **About Me**
 
-🔭 Currently building Full Stack Web Applications
+🔭 Currently building **Full Stack Web Applications**
 
-🌱 Learning Advanced React, Node.js, Express, and System Design
+🌱 Learning **Advanced React, Node.js, Express, and System Design**
 
-🎯 Goal: To become a skilled software engineer and contribute to impactful projects
+🎯 Goal: To become a **skilled software engineer** and contribute to impactful projects
 
 ⚡ Fun fact: I love building small apps that solve real problems while learning new tech
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
-Frontend: HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS
-Backend: Node.js, Express.js
-Database: SQLite, SQL
-Tools & Others: Git, GitHub, VS Code, Postman, Render, Netlify
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS
+**Backend:** Node.js, Express.js
+**Database:** SQLite, SQL
+**Tools & Others:** Git, GitHub, VS Code, Postman, Render, Netlify
 
-📌 Featured Projects
-1️⃣ Nxt Trendz – E-commerce Web App
+📌 **Featured Projects**
+1️⃣ **Nxt Trendz – E-commerce Web App**
 
-Description: Online shopping app with login, product listing, and full cart management.
+**Description:** Online shopping app with login, product listing, and full cart management.
 
-Features: Login/Logout (rahul / rahul@2021), Add/Remove Cart Items, Increment/Decrement Quantity, Empty Cart View
+**Features:** Login/Logout (rahul / rahul@2021), Add/Remove Cart Items, Increment/Decrement Quantity, Empty Cart View
 
-Tech: React, CSS
+**Tech:** React, CSS
 
-Deployment: MahiKart Live Demo
+**Deployment:** https://mahiKart.ccbp.tech
 
-GitHub: Repo Link
+**GitHub:** https://github.com/MaheshVeeraboina/Nxt-Trendz
 
-2️⃣ Jobby App
+2️⃣**Jobby App**
 
-Description: Job listing and search platform with filtering, saved jobs, and dynamic routing.
+**Description:** Job listing and search platform with filtering, saved jobs, and dynamic routing.
 
-Tech: React, CSS
+**Tech:** React, CSS
 
-Deployment: Jobby App Live Demo
+**Deployment**: https://veraboina.ccbp.tech/
 
-GitHub: Repo Link
+**GitHub:** https://github.com/MaheshVeeraboina/Jobby-App
 
-3️⃣ Twitter Clone API
+3️⃣ **Twitter Clone API**
 
-Description: Backend system built with Node.js, Express, JWT, and SQLite to support tweeting, following, likes, and replies.
+**Description:** Backend system built with Node.js, Express, JWT, and SQLite to support tweeting, following, likes, and replies.
 
-Tech: Node.js, Express, SQLite
+**Tech:** Node.js, Express, SQLite
 
-GitHub: Repo Link
+**GitHub:** https://github.com/MaheshVeeraboina/Twitter-Clone
 
-4️⃣ Stock Trading Simulation
+4️⃣**Stock Trading Simulation**
 
-Description: Simulates real-time stock trading with cron jobs, CSV logging, and loan limits.
+**Description:** Simulates real-time stock trading with cron jobs, CSV logging, and loan limits.
 
-Tech: Node.js, SQLite
+**Tech:** Node.js, SQLite
 
-GitHub: Repo Link
+**GitHub:** https://github.com/MaheshVeeraboina/Stock-Trade-Simulation-Task
 
-5️⃣ IPL Dashboard
+5️⃣ **IPL Dashboard**
 
-Description: React app showing IPL team stats, recent matches, and navigation.
+**Description:** React app showing IPL team stats, recent matches, and navigation.
 
-Tech: React, APIs
+**Tech**: React, APIs
 
-Deployment: Live Demo
+**Deployment**: https://mahiv.ccbp.tech/
 
-GitHub: Repo Link
+**GitHub:** https://github.com/MaheshVeeraboina/IPL-Dashboard
 
-6️⃣ Gradient Generator
+6️⃣ **My Journey with NxtWave**
 
-Description: Web app to generate CSS gradients dynamically with color pickers and copy-to-clipboard functionality.
+**Description:** Timeline project documenting my learning journey and projects with NxtWave.
 
-Tech: React, CSS
+**Tech:** React, React Chrono
 
-Deployment: Live Demo
+**GitHub**: https://github.com/MaheshVeeraboina/my-journey-with-Nxtwave
 
-GitHub: Repo Link
+7️⃣ **Meme Generator**
 
-7️⃣ Meme Generator
+**Description:** React app to create and download memes by adding text to images.
 
-Description: React app to create and download memes by adding text to images.
+**Tech:** React, CSS
 
-Tech: React, CSS
+**Deployment:** https://maheshmemes.ccbp.tech
 
-Deployment: Live Demo
+**GitHub:** https://github.com/MaheshVeeraboina/meme-generator
 
-GitHub: Repo Link
+8️⃣ **Gradient Generator**
 
-8️⃣ My Journey with NxtWave
+**Description:** Web app to generate CSS gradients dynamically with color pickers and copy-to-clipboard functionality.
 
-Description: Timeline project documenting my learning journey and projects with NxtWave.
+**Tech:** React, CSS
 
-Tech: React, React Chrono
+**Deployment:** https://mahigradients.ccbp.tech
 
-GitHub: Repo Link
+**GitHub:** https://github.com/MaheshVeeraboina/gradient-generator
 
-9️⃣ Portfolio Website
+9️⃣ **Password Manager App**
 
-Description: Personal portfolio showcasing projects with responsive design.
+**Description:** React app for adding, searching, deleting, and toggling visibility of passwords.
 
-Tech: HTML, CSS
+**Tech:** React, CSS
 
-Deployment: MahiKart Live Demo
+**GitHub**: https://github.com/MaheshVeeraboina/Password-Manager-App
 
-GitHub: Repo Link
+🔟 **Portfolio Website**
 
-🔟 Password Manager App
+**Description**: Personal portfolio showcasing projects with responsive design.
 
-Description: React app for adding, searching, deleting, and toggling visibility of passwords.
+**Tech**: HTML, CSS
 
-Tech: React, CSS
+**Deployment**: https://mahiKart.ccbp.tech
 
-GitHub: Repo Link
+**GitHub:** https://github.com/MaheshVeeraboina/Portfolio
 
-🤝 Connect With Me
+🤝 **Connect With Me**
 
-💼 LinkedIn: Veeraboina Mahesh Yadav
+💼 **LinkedIn**: www.linkedin.com/in/mahesh-veeraboina
 
-🖥️ GitHub: MaheshVeeraboina
+🖥️ **GitHub**: (https://github.com/MaheshVeeraboina)
 
 ✨ “Code is like humor. When you have to explain it, it’s bad.”
